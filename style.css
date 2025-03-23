@@ -186,7 +186,8 @@ img {
     display: block;
     margin-bottom: 40px; }
   .section-heading h2 {
-    font-size: 48px;
+    font-size: 32px;
+    margin-bottom: 20px;
     color: #363636; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .section-heading h2 {
@@ -580,16 +581,16 @@ img {
     bottom: 0; }
   .single-hero-slide .hero-slides-content {
     display: inline-block;
-    padding: 60px 50px;
+    padding: 20px 10px;
     background-color: rgba(0, 0, 0, 0.63);
     border: 2px solid #cb8670;
     text-align: center; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .single-hero-slide .hero-slides-content {
-        padding: 40px 20px; } }
+        padding: 20px 10px; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .single-hero-slide .hero-slides-content {
-        padding: 30px 20px; } }
+        padding: 20px 10px; } }
     @media only screen and (max-width: 767px) {
       .single-hero-slide .hero-slides-content {
         padding: 20px; } }
@@ -601,16 +602,16 @@ img {
     .single-hero-slide .hero-slides-content h2 {
       position: relative;
       z-index: 1;
-      font-size: 72px;
+      font-size: 32px;
       color: #ffffff;
-      margin-bottom: 0;
+      margin-bottom: 10px;
       display: inline-block; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .single-hero-slide .hero-slides-content h2 {
-          font-size: 48px; } }
+          font-size: 32px; } }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .single-hero-slide .hero-slides-content h2 {
-          font-size: 36px; } }
+          font-size: 24px; } }
       @media only screen and (max-width: 767px) {
         .single-hero-slide .hero-slides-content h2 {
           font-size: 30px; } }
@@ -837,12 +838,12 @@ img {
   position: relative;
   z-index: 1;
   width: 100%;
-  padding: 70px 50px;
+  padding: 20px 15px;
   border: 2px solid #cb8670;
   background-color: rgba(0, 0, 0, 0.63); }
   @media only screen and (max-width: 767px) {
     .pool-content {
-      padding: 50px 20px; } }
+      padding: 20px 15px; } }
   .pool-content .pool-feature {
     position: relative;
     z-index: 1;
