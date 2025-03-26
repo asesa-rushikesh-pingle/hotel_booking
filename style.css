@@ -1558,3 +1558,19 @@ img {
 /* ====== The End ====== */
 
 /*# sourceMappingURL=style.css.map */
+
+
+
+
+@media screen and (max-width:770px) {
+  .hightMarging{
+    margin-bottom: 150px;
+  }
+  
+}
+@media screen and (max-width:570px) {
+  .hightMarging{
+    margin-bottom: 100px;
+  }
+  
+}
